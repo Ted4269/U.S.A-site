@@ -1,0 +1,46 @@
+h1 {
+    color: darkred;
+}
+
+.river{
+    width: 25%;
+}
+.ww2{
+    width: 28%;
+}
+.flags{
+    width: 37%;
+}
+
+ul{
+border: 5px dashed;
+text-align: center;
+list-style: none;
+
+}
+
+.nav{
+
+}
+
+ul li{
+border: 3px outset;
+display: inline-block;
+}
+
+
+.name{
+    text-align: center;
+    
+}
+.fact1{
+    text-align: center;
+}
+.fact2{
+    text-align: center;
+}
+.fact3{
+    text-align: center;
+}
+
+
